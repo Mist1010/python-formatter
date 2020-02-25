@@ -1,4 +1,4 @@
-# python-formatter
+# General
 Format .txt files line by line into flawless python lists. Example already loaded of fortunes, can be changes easily.
 
 # Getting Started
